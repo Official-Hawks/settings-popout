@@ -1,0 +1,9 @@
+{
+    "version": "0.0.1",
+    "author": "hawkscord.dev",
+    "name": "Settings Popout",
+    "license": "MIT",
+    "theme": "theme.css",
+    "splashTheme": "splash.css"
+    "description": "Make the settings look like they are in a new window!"
+}
